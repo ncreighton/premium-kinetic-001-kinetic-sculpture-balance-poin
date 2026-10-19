@@ -1,0 +1,2 @@
+# premium-kinetic-001-kinetic-sculpture-balance-poin
+Tired of guessing where to place pivot points on your kinetic sculpture? Stop wasting materials on failed prototypes and start calculating perfect balance every time.  This Notion template eliminates the trial-and-error of manual balance point calculations by applying physics formulas specifically designed for kinetic art. It streamlines your workf
